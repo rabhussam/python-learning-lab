@@ -25,6 +25,7 @@ My current focus is on applying Python through small programs, GUI development, 
 | Dictionary Menu Order | `dictionary-menu-order.py` | A simple ordering program that uses a dictionary to store menu items and prices, allowing the user to add items to a cart and calculate the final total. | Dictionaries, `.get()`, loops, conditionals, user input, formatted prices, cart totals |
 | User Info Verification | `user-info-verification.py` | A beginner Python program that uses a function to display user information and asks the user to verify their details before continuing. | Functions, user input, loops, conditionals, parameters, basic program flow |
 | Cipher Lab | `cipher-lab.py` | A beginner Python encryption program that lets the user encrypt and decrypt messages using a randomly generated character key. | Functions, loops, lists, user input, conditionals, `random` module, `string` module, encryption and decryption logic |
+| Slot Machine Game | `slot-machine.py` | A Python casino-style slot machine game where the player starts with a balance, places bets, spins random symbols, wins payouts for matching rows, and can continue playing until they quit or run out of money. | Functions, loops, conditionals, lists, `random` module, input validation, return values, payout logic, balance tracking |
 
 
 ## Current Learning Goals
