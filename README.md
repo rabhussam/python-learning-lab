@@ -22,6 +22,7 @@ My current focus is on applying Python through small programs, GUI development, 
 |---|---|---|
 | Card Draw Game | A simple Python program where the user chooses how many cards to draw, the program randomly generates card values from 1 to 5, displays each card, and calculates the total score. | Python basics, user input, loops, dictionaries, random module, lists, problem-solving |
 | Food Truck Ordering System | A beginner Python ordering program where the user selects food items from a menu, the program checks if the item exists, adds the price to the total, and displays the final order. | Lists, loops, conditionals, user input, indexing, input validation, string methods, running totals |
+| Dictionary Menu Order | `dictionary-menu-order.py` | A simple ordering program that uses a dictionary to store menu items and prices, allowing the user to add items to a cart and calculate the final total. | Dictionaries, `.get()`, loops, conditionals, user input, formatted prices, cart totals |
 
 ## Current Learning Goals
 
