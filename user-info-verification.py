@@ -1,6 +1,3 @@
-# The beauty of function is the fact that you can easily
-# execute the whole code with a word ------ app(x, y, z) ------- the functions name is def app(x,y,z)
-
 def app(username, email):
     print(f"Hello, {username}!")
     print(f"Can you confirm your email is {email}?")
