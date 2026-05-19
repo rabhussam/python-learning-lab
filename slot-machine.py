@@ -47,9 +47,9 @@ def main():
         print_row(row)
         payout = get_payout(row, bet)
         if payout > 0:
-            print("YOU WON THE CASINO")
+            print("YOU WON!")
         else:
-            print("YOU LOST THE CASINO")
+            print("YOU LOST!")
         balance+= payout
         print(f"YOUR BALANCE IS {balance}")
 
