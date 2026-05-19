@@ -30,12 +30,6 @@ My current focus is on applying Python through small programs, GUI development, 
 - Improve my ability to explain projects in README files
 - Build a portfolio for future internship applications
 
-## Repository Structure
+## Goal
 
-```text
-python-learning-lab/
-├── beginner-projects/
-├── gui-projects/
-├── problem-solving/
-├── notes/
-└── README.md
+My goal is to use this repository as a portfolio that shows my progress as a Computer Science student and demonstrates my ability to learn, build, and document programming projects.
