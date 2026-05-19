@@ -31,7 +31,7 @@ for hit in range(hits):
        print(line)
     print()
 
-#for line in range(3):
+#for line in range(3):                                ------- Cards show horizontally if activated.
 #    for hit in showcase:
 #       print(cards.get(hit)[line], end="")
 #    print()
