@@ -20,7 +20,7 @@ My current focus is on applying Python through small programs, GUI development, 
 
 | Project | Description | Skills Practiced |
 |---|---|---|
-| Coming soon | My first documented Python project | Python basics, problem-solving |
+| Card Draw Game | A simple Python program where the user chooses how many cards to draw, the program randomly generates card values from 1 to 5, displays each card, and calculates the total score. | Python basics, user input, loops, dictionaries, random module, lists, problem-solving |
 
 ## Current Learning Goals
 
