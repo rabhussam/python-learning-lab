@@ -18,12 +18,14 @@ My current focus is on applying Python through small programs, GUI development, 
 
 ## Projects
 
-| Project | Description | Skills Practiced |
-|---|---|---|
-| Card Draw Game | A simple Python program where the user chooses how many cards to draw, the program randomly generates card values from 1 to 5, displays each card, and calculates the total score. | Python basics, user input, loops, dictionaries, random module, lists, problem-solving |
-| Food Truck Ordering System | A beginner Python ordering program where the user selects food items from a menu, the program checks if the item exists, adds the price to the total, and displays the final order. | Lists, loops, conditionals, user input, indexing, input validation, string methods, running totals |
+| Project | File | Description | Skills Practiced |
+|---|---|---|---|
+| Card Draw Game | `dice-game.py` | A simple Python program where the user chooses how many cards to draw, the program randomly generates card values from 1 to 5, displays each card, and calculates the total score. | Python basics, user input, loops, dictionaries, random module, lists, running totals |
+| Food Truck Ordering System | `food-truck.py` | A beginner Python ordering program where the user selects food items from a menu, the program checks if the item exists, adds the price to the total, and displays the final order. | Lists, loops, conditionals, user input, indexing, input validation, string methods |
 | Dictionary Menu Order | `dictionary-menu-order.py` | A simple ordering program that uses a dictionary to store menu items and prices, allowing the user to add items to a cart and calculate the final total. | Dictionaries, `.get()`, loops, conditionals, user input, formatted prices, cart totals |
 | User Info Verification | `user-info-verification.py` | A beginner Python program that uses a function to display user information and asks the user to verify their details before continuing. | Functions, user input, loops, conditionals, parameters, basic program flow |
+| Cipher Lab | `cipher-lab.py` | A beginner Python encryption program that lets the user encrypt and decrypt messages using a randomly generated character key. | Functions, loops, lists, user input, conditionals, `random` module, `string` module, encryption and decryption logic |
+
 
 ## Current Learning Goals
 
