@@ -15,5 +15,3 @@ while True:
 
 print(f"${total:.2f}")
 print(cart, end=" ")
-
-#  8/9/2025
